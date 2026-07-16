@@ -82,7 +82,7 @@ const T = {
       metrics: [
         { label: 'TAM', sub: 'Marché vétérinaire Afrique sub-saharienne', val: '850M USD' },
         { label: 'SAM', sub: 'Afrique Centrale (CM, CG, CD, GA)', val: '120M USD' },
-        { label: 'SOM', sub: 'Objectif 3 ans — Cameroun + Congo', val: '8M USD' },
+        { label: 'SOM', sub: 'Objectif 3 ans — Cameroun + Congo', val: '300,000 USD' },
       ],
     },
     business: {
@@ -166,7 +166,7 @@ const T = {
       metrics: [
         { label: 'TAM', sub: 'Veterinary market Sub-Saharan Africa', val: '$850M USD' },
         { label: 'SAM', sub: 'Central Africa (CM, CG, CD, GA)', val: '$120M USD' },
-        { label: 'SOM', sub: '3-year target — Cameroon + Congo', val: '$8M USD' },
+        { label: 'SOM', sub: '3-year target — Cameroon + Congo', val: '$300,000 USD' },
       ],
     },
     business: {
