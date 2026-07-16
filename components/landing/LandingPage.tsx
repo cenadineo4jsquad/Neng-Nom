@@ -120,7 +120,7 @@ const T = {
       sent: "Message envoyé !",
       sentSub: 'Nous vous répondrons dans les 24 heures.',
     },
-    footer: "L'infrastructure numérique de l'élevage africain. Douala, Cameroun.",
+    footer: "L'infrastructure numérique de l'élevage africain. Bandjoun, Cameroun.",
   },
   en: {
     nav: {
@@ -204,7 +204,7 @@ const T = {
       sent: 'Message sent!',
       sentSub: "We'll get back to you within 24 hours.",
     },
-    footer: 'The digital infrastructure for African livestock farming. Douala, Cameroon.',
+    footer: 'The digital infrastructure for African livestock farming. Bandjoun, Cameroon.',
   },
 };
 
@@ -1092,7 +1092,7 @@ function LandingFooter({ text }: { text: string }) {
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-brand-800 text-center">
-          <p className="text-brand-700 text-xs">© 2026 Neng‑Nom SAS · Douala, Cameroun</p>
+          <p className="text-brand-700 text-xs">© 2026 Neng‑Nom SAS · Bandjoun, Cameroun</p>
         </div>
       </div>
     </footer>
